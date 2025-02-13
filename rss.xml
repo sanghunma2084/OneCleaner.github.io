@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>원클리너</title>
+    <link>http://www.onecleaner.kr</link>
+    <description>서울·경기 지역 빌라, 원룸, 병원, 빌딩 청소 전문 서비스</description>
+    <item>
+    <title>onecleaner</title>
+    <link>http://www.onecleaner.kr</link>
+    <description>서울·경기 지역 빌라, 원룸, 병원, 빌딩 청소 전문 서비스</description>
+    <pubDate>${new Date().toUTCString()}</pubDate>
+    </item>
+    
+     <item>
+    <title>빌라청소</title>
+    <link>http://www.onecleaner.kr</link>
+    <description>서울·경기 지역 빌라, 원룸, 병원, 빌딩 청소 전문 서비스</description>
+    <pubDate>${new Date().toUTCString()}</pubDate>
+    </item>
+
+    <item>
+    <title>빌딩 청소</title>
+    <link>http://www.onecleaner.kr</link>
+    <description>서울·경기 지역 빌라, 원룸, 병원, 빌딩 청소 전문 서비스</description>
+    <pubDate>${new Date().toUTCString()}</pubDate>
+    </item>
+
+    <item>
+    <title>병원 청소</title>
+    <link>http://www.onecleaner.kr</link>
+    <description>서울·경기 지역 빌라, 원룸, 병원, 빌딩 청소 전문 서비스</description>
+    <pubDate>${new Date().toUTCString()}</pubDate>
+    </item>
+    
+    <item>
+    <title>원룸 청소</title>
+    <link>http://www.onecleaner.kr</link>
+    <description>서울·경기 지역 빌라, 원룸, 병원, 빌딩 청소 전문 서비스</description>
+    <pubDate>${new Date().toUTCString()}</pubDate>
+    </item>
+    
+</channel>
+</rss>
