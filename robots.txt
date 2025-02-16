@@ -6,5 +6,7 @@ Disallow:
 User-agent: *
 Disallow: /private/
 
-# 구글 검색엔진용 사이트맵 추가
+
+User-agent: Googlebot
+Disallow:
 Sitemap: https://onecleaner.kr/sitemap.xml
