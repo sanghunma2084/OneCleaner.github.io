@@ -5,3 +5,7 @@ Disallow:
 # 특정 디렉토리 크롤링 금지
 User-agent: *
 Disallow: /private/
+
+User-agent: Googlebot
+Disallow:
+Sitemap: https://onecleaner.kr/sitemap.xml
